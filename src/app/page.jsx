@@ -1,11 +1,12 @@
 'use client';
 import React from 'react';
-import Navbar from '../components/Navbar';
 
 const Home = () => {
   return (
-    <div>
-      <Navbar/>
+    <div className='flex flex-col items-center'>
+      
+      <div></div>
+
     </div>
   )
 }
